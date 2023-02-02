@@ -11,7 +11,8 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
+<br/>
+<br/>
 🍒 <strong>portfolio</strong> https://maze-slouch-c9c.notion.site/9865749c97da4179a19ab6fb37c88104 <br/>
 🍒 <strong>email</strong> suji0509@naver.com <br/>
 🍒 <strong>github</strong> https://github.com/innerstella <br/>
