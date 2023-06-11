@@ -13,7 +13,7 @@
 </div>
 <br/>
 <br/>
-🍒 <strong>portfolio</strong> https://maze-slouch-c9c.notion.site/9865749c97da4179a19ab6fb37c88104 <br/>
+🍒 <strong>portfolio</strong> https://maze-slouch-c9c.notion.site/82c86f9db8fa491eb2af8487e4298025?pvs=4 <br/>
 🍒 <strong>email</strong> suji0509@naver.com <br/>
 🍒 <strong>github</strong> https://github.com/innerstella <br/>
 🍒 <strong>blog</strong> https://inner-stella.tistory.com/ 
