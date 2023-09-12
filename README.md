@@ -20,3 +20,4 @@
 <!-- 🍒 <strong>Resume</strong> https://maze-slouch-c9c.notion.site/82c86f9db8fa491eb2af8487e4298025?pvs=4 <br/> -->
 🍒 <strong>Email</strong> suji0509@naver.com <br/>
 🍒 <strong>Blog</strong> https://inner-stella.tistory.com/ 
+🍒 <strong>Portfolio</strong> https://innerstella-portfolio.web.app/
