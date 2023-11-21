@@ -1,6 +1,11 @@
-## 차수지
+<h1>빠르게 문제를 발견하고, 직접 해결하는 개발자 차수지입니다</h1>
 
-#### FE Web Developer
+<br/>
+
+📧 <strong>Email</strong> inner0509@gmail.com <br/>
+📚 <strong>Blog</strong> https://inner-stella.tistory.com/ <br/>
+🍀 <strong>Portfolio</strong> https://innerstella-portfolio.web.app/
+<br/>
 
 <div>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -15,9 +20,8 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 </div>
-<br/>
-<br/>
-<!-- 🍒 <strong>Resume</strong> https://maze-slouch-c9c.notion.site/82c86f9db8fa491eb2af8487e4298025?pvs=4 <br/> -->
-🍒 <strong>Email</strong> inner0509@gmail.com <br/>
-🍒 <strong>Blog</strong> https://inner-stella.tistory.com/ <br/>
-🍒 <strong>Portfolio</strong> https://innerstella-portfolio.web.app/
+
+
+
+<br/><br/>
+<img src='https://github.com/innerstella/my-portfolio/blob/main/public/opengraph.jpg' />
