@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Console.log(innerstella)&fontSize=40&fontColor=black" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=계획대로+꼼꼼하게+개발하기;다양한+분야의+사람들과+원활하게+소통하기)](https://git.io/typing-svg) <br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=innerstella&theme=hacker)](https://git.io/streak-stats)
@@ -54,4 +54,4 @@
 </details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerstella)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
