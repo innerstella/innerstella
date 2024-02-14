@@ -54,5 +54,6 @@
   <img src="https://img.shields.io/badge/Steam-1b2838?style=for-the-badge&logo=Steam&logoColor=white" />  
 </details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innerstella)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
