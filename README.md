@@ -6,7 +6,7 @@
 <a href='mailto:inner0509@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href='https://www.linkedin.com/in/%EC%88%98%EC%A7%80-%EC%B0%A8-b22963289/'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href='https://innerstella.notion.site/FE_-_-6369f14ac2ae41d9b22290183b744df5?pvs=4'><img src="https://img.shields.io/badge/Resume-006600?style=for-the-badge&logo=4chan&logoColor=white" /></a>
-<a href='https://docs.google.com/document/d/1ka5M_IgthzPc683SRNxxj_LnGOdb4DrLN2URb5DIgS4/edit?usp=sharing'><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+<a href='https://innerstella.notion.site/92cd0015a5054c77875006cb8126312e?pvs=4'><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href='https://velog.io/@innerstella/posts'><img src="https://img.shields.io/badge/Velog-21c393?style=for-the-badge&logo=Velog&logoColor=white" />  </a>
 <br/><br/>
 <img src="https://img.shields.io/badge/Apple-MacBook_Air_2023-999999?style=for-the-badge&logo=apple&logoColor=white" /> 
