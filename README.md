@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Console.log(innerstella)&fontSize=40&fontColor=black" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=console.log(innerstella)&fontSize=40&fontColor=black" />
 
 | 🎯 | 🌟 |
 | ------- | ----------|
